@@ -51,7 +51,7 @@ npm run storybook
 ## 📘 Related Article
 
 This repo is the companion to my Medium guide::  
-**[How to Build a React UI Component Library](https://blog.ashutoshtiwari.co.in/how-to-build-a-react-ui-component-library-a-step-by-step-guide-using-shadcn-ui-vite-tailwind-36c1b89e2113)**
+**[How to Build a React UI Component Library](https://tiwariashutosh.medium.com/how-to-build-a-react-ui-component-library-a-step-by-step-guide-using-shadcn-ui-vite-tailwind-36c1b89e2113)**
 
 ## 🛠️ Customization
 
